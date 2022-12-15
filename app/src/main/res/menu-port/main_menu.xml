@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_reserva_mesas"
+        android:title="Mesas"
+        android:icon="@drawable/ic_reservas_mesas"/>
+
+    <item android:id="@+id/menu_carta_platos"
+        android:title="Carta"
+        android:icon="@drawable/ic_carta_platos"/>
+
+</menu>
